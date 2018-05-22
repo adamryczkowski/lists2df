@@ -12,3 +12,4 @@ LazyData: true
 Imports:
   purrr,
   data.table
+RoxygenNote: 6.0.1
