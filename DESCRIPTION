@@ -1,0 +1,14 @@
+Package: lists2df
+Type: Package
+Title: Conveniently converts list of lists into a data.table
+Version: 1.0.0
+Author: Adam Ryczkowski
+Maintainer: Adam Ryczkowski <adam@statystyka.net>
+Description: The package automatically infers the data type of the column. Supports values of type list. 
+    Supports unnamed list elements.
+License: GNU 3
+Encoding: UTF-8
+LazyData: true
+Imports:
+  purrr,
+  data.table
